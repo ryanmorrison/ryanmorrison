@@ -8,14 +8,14 @@ pre {
   border-radius: 0px; /*undo rounded corners*/
 }
 
-code {
+code { 
   color: #343c56;
   background: #f8f8f8; /* match github highlightjs */
 }
 
-pre code {
+pre code { 
   color: #343c56;
-  background: none;
+  background: none; 
 }
 
 /* change profile network icon colors
@@ -50,7 +50,7 @@ pre code {
     color: #84d6d3;
     background-color: #343c56;
   }
-
+  
 /* alerts */
 
 div.alert p:first-child::before {

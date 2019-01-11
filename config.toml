@@ -65,11 +65,6 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "ryan.morrison@colostate.edu"
   address = "Engineering B208 (Physical Location), 1372 Campus Delivery, Department of Civil and Environmental Engineering, Fort Collins, CO 80523-1392, USA"
-  office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
-  """
   phone = "970.491.6057"
   skype = ""
   telegram = ""
@@ -177,7 +172,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -187,7 +182,7 @@ enableGitInfo = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   # custom_css = ["blue.css"]
-  custom_css = ["custom.css"]
+  custom_css = ["blue.css"]
   custom_js  = []
 
   # Publication types.
@@ -305,15 +300,15 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+  [[menu.main]]
+  name = "News"
+  url = "#posts"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 3
 
 [[menu.main]]
@@ -321,22 +316,22 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 7
+  weight = 6
 
 # Search.
 [params.search]
