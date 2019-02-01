@@ -1,0 +1,22 @@
+---
+title: New Hydrogeomorphic Floodplain Model Paper Published
+author: Ryan Morrison
+date: '2019-02-01'
+slug: new-hydrogeomorphic-floodplain-model-paper-published
+categories:
+  - research
+  - publication
+tags:
+  - floodplain
+  - model
+  - levees
+image:
+  caption: ''
+  focal_point: ''
+---
+The master's work of Kara Scheel has been published in [JAWRA](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12717). This was an exciting collaboration with [Fernando Nardi](https://twitter.com/fnardi) and [Antonio Annis](https://twitter.com/AntoYears) from the University of Foreigners in Perugia, Italy, in which we applied a hydrogeomorphic floodping mapping model to explore the impacts of levees of floodplain inundation. Congrats to Kara!
+
+Scheel, K., R.R. Morrison, A. Annis, and F. Nardi. 2019. “Understanding the Large‐Scale Influence of Levees on Floodplain Connectivity Using a Hydrogeomorphic Approach.” Journal of the American Water Resources Association 1–17. https://doi.org/10.1111/1752-1688.12717.
+
+![](/post/2019-02-01-new-hydrogeomorphic-floodplain-model-paper-published_files/jawr12717-fig-0004-m.jpg){width=400px height=200px}
+
