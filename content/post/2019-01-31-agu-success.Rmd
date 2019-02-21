@@ -1,0 +1,24 @@
+---
+title: AGU Success
+author: Ryan Morrison
+date: '2019-01-31'
+slug: agu-success
+categories:
+  - conference
+  - research
+tags:
+  - floodplain
+  - evapotranspiration
+image:
+  caption: ''
+  focal_point: ''
+---
+This was the first year taking a group of students to AGU, and it was a great experience. Not only were my students blown away by the scale of AGU, but *I wasn't responsible for giving a single presentation*. I did, however, co-convene a session on socio-hydrologic resiliency, which was a great networking experience. Below are some of the highlights from this year's trip.
+
+## Marissa Karpack
+
+![](/post/2019-01-31-agu-success_files/IMG_0171.jpeg){width=400px height=200px} Marissa presented her ongoing M.S. work to assess floodplain integrity throughout Colorado using a combination of hydrologic alteration and spatial data. 
+
+## Matt Lurtz
+
+![](/post/2019-01-31-agu-success_files/IMG_0175.jpeg){width=400px height=200px}
