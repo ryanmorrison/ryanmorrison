@@ -4,14 +4,12 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2018-06-27
-
+headless = true  # This file represents a page section.
+weight = 100
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-# subtitle = "Under construction..."
 
-# Order that this section will appear in.
-weight = 60
+
 
 +++
 
