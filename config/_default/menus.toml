@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "CV"
+  url = "/files/cv.pdf"
+  weight = 12
+
+[[main]]
   name = "Research Group"
   url = "#people"
   weight = 13
