@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Daniel White
+name: Ben Tyner
 
 # Username (this should match the folder name)
 authors:
-- danny
+- ben
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,4 @@ email: ""
 user_groups:
 - Grad Students
 ---
-**About Me:** Danny grew up in the West where he developed a fascination for rivers through fly fishing. Intrigued by the practice of river management, water resources conservation and hydraulic engineering, he obtained a bachelor’s degree from the University of Utah in Civil and Environmental Engineering. After completing his undergraduate degree, Danny worked as a stream restoration technician and water resources engineer for three years. He moved to Fort Collins to conduct Master’s research in 2018 and graduated in 2019 studying sediment sorting patterns in gravel-bed meandering channels.
-
-**Research Focus:** As a PhD student, Danny is studying the effects of floodplain vegetation on in-channel hydraulics. He will conduct flume and field experiments to assess the importance of floodplain vegetation in stream restoration best practices. He is also actively involved in an assessment of native cutthroat trout habitat throughout the Front Range. Through his studies, Danny hopes to better understand the interconnectedness of physical and biological processes that healthy rivers rely on. His passion to protect wild places and rehabilitate degraded riparian corridors drives his interest in river science.
 

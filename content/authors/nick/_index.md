@@ -58,3 +58,6 @@ user_groups:
 - Grad Students
 ---
 
+**About Me:** I received my Bachelor of Science in Civil Engineering at the University of Idaho. During my undergraduate education, I researched in an environmental engineering laboratory and was President of the University of Idaho Humanitarian Engineering Corps. I began my Master of Science in Civil Engineering program at Colorado State University in the pursuit of impacting sustainable, water-related engineering practices. Outside of engineering, I have a passion for music and languages.
+
+**Research Focus:** Currently, I am researching under Co-PI’s Dr. Ryan Morrison and Dr. Peter Nelson for an NSF-funded project focusing on channel-floodplain hydrodynamics in relation to floodplain vegetation. In collaboration with fellow graduate Danny White, we are numerically and physically modelling various hydrodynamic phenomena for the project.

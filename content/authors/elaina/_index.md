@@ -57,4 +57,6 @@ email: ""
 user_groups:
 - Grad Students
 ---
+**About Me:** I was born and raised in Winston-Salem, NC. I developed a love and appreciation for nature at a young age by spending much of my childhood exploring the southern Appalachians. This passion led me to Virginia Tech where I majored in Biological Systems Engineering. My education focused on sustainability, ecosystem dynamics, and environmental science. At Virginia Tech I worked as a research assistant developing methods to predict the impacts of flow diversions on species richness.
 
+**Research Focus:** I am currently a second year master’s student in Civil Engineering. I am developing a decision support system that uses 2D hydraulic modeling results, flow scenarios, and fish and riparian vegetation habitat criteria to quantify and map habitat. This tool will be used to support environmental flow management on the Verde River in Arizona.

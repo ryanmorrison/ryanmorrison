@@ -58,3 +58,6 @@ user_groups:
 - Grad Students
 ---
 
+**About Me:** My name is Heechan Han, Ph.D student of Civil and Environmental Engineering with a focus on Hydrologic Science and Engineering Program. I graduated from Inha University in South Korea with a BS and MS degrees in Civil and Environmental Engineering. My research interests span a wide range of topics in hydrologic science and engineering, including hydrological analysis, flood forecasting, machine learning and hydrometeorology analysis. 
+
+**Research Focus:** I am currently working on my dissertation and several research questions. My main focus is developing integrate flood forecasting system using machine learning. I am also focusing on various research topics, such as hydrological analysis of atmospheric rivers, developing rainfall erosivity map using remote sensing data, developing a machine learning based tool for hydrological evaluation, and uncertainty analysis of hydrological model.    
