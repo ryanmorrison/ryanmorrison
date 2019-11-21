@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. Student (co-adviser)
 
 # Organizations/Affiliations
 organizations:
