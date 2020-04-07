@@ -18,7 +18,7 @@ organizations:
   url: "www.colostate.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 
 interests:
@@ -63,7 +63,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -72,3 +72,7 @@ user_groups:
 ---
 
 I am a water resources engineer and assistant professor at [Colorado State University](https://www.colostate.edu) in the [Civil and Environmental Engineering Department](https://www.engr.colostate.edu/ce/). The majority of my research has been focused on sustainably integrating ecological and human needs into water resource management, both from engineering and social science perspectives. My work emphasizes the impacts of river management on aquatic ecosystems and explores new methods for mitigating management effects.
+
+**Current graduate students** -- Please see [this page] ({{< ref "/current_students/current_students.md" >}}) this page for a list of helpful resources.
+
+**Prospective graduate students** -- Check out [this page] ({{< ref "/prospective_students/prospective.md" >}}) for more information about how to join our research group.
