@@ -17,7 +17,7 @@ I teach the following courses in the [CSU Department of Civil and Environmental 
 
 - CIVE 330: Ecological Engineering
 - CIVE 413: Environmental River Mechanics
-- CIVE 613: Stream Rehabilitation Design (scheduled for Spring 2020)
+- CIVE 613: River Restoration Design
 
 I have also taught the following courses elsewhere:
 
