@@ -18,8 +18,6 @@ header:
 
 ## Graduate Students
 
-I'm happy you have taken an interest in the Watershed Hydrology and Engineering Lab at Indiana University. The group is part of the School of Public and Environmental Affairs at Indiana University, and accepts students pursuing any of: (1) MS and PhD Degrees in Environmental Science, (2) dual-degree MSES-MPA, (3) Masters International MSES students.  Because our work is largely interdisciplinary, students from a variety of majors fit well in our group , including geosciences, hydrology, ecology, biogeochemistry, geography, forestry, engineering, ....  The graduate program in our school is very flexible, allowing students to customize their coursework and develop an expertise to complement their existing educational background and research interests. Most research in the group is centered on surface water quality, often in the context of interactions between surface waters and groundwaters.  Student projects always include both field campaigns and numerical modeling - this keeps us grounded in the physical world around us, and allows us to explore a problem or parameter space more complete in a numerical sense. Funding is regularly available in the form of both Teaching and Research Assistantships. Notably, SPEA has a well-established partnership with Delft Technical University in the Netherlands, a world leader in hydrology and hydraulics (amongst many disciplines) - MS and PhD students can spend 1 semester at Delft taking coursework to supplement what is available at IU.
-
 **My responsibilities to my graduate students:**
 
 - Assist with identifying and writing for graduate student fellowships
