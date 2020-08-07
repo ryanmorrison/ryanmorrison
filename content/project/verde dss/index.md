@@ -6,7 +6,7 @@ title = "Verde River Environmental Flows Decision Support System"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "The goal of this project is to develop a decision support tool to assist in synthesizing numerous model outputs to identify specific physical and biological habitat needs of select instream fish and floodplain riparian species within the Verde River. *Funding: U.S. Geological Survey*"
+summary = "The goal of this project is to develop a decision support tool to assist in synthesizing numerous model outputs to identify specific physical and biological habitat needs of select instream fish and floodplain riparian species within the Verde River. *Funding: U.S. Geological Survey and U.S. Forest Service*"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-**Sponsor:** U.S. Geological Survey
+**Sponsor:** U.S. Geological Survey, U.S. Forest Service
 
 **Duration:** 2019–2020
 
