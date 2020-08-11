@@ -57,6 +57,6 @@ email: ""
 user_groups:
 - Grad Students
 ---
-**About Me:**
+**About Me:** My name is Chenchen Ma and I was born and raised in Shanghai, China. I came to Colorado State University (CSU) as a 2+2 transfer student from Shanghai Normal University and earned my BS and my first MS degrees both in Watershed Science. After graduation, I worked as an R&D engineer at Shanghai Municipal Engineering Design Institute for a year mainly focused on stormwater management and low impact development in Shanghai. The time I spent in the engineering field showed me passion and brought me back to CSU to pursue a master’s degree in Environmental Engineering. My main research interests include but are not limited to sustainable water resource management, river restoration, and impacts of climate change on water resources.
 
-**Research Focus:**   
+**Research Focus:** I am a first-year graduate student in environmental engineering at CSU and my current research focuses on how changes in hydraulic characteristics in small headwater streams due to climate change affect the criteria of greenback cutthroat trout habitat in regions of Northern-Central Colorado. I will develop models using existing and newly collected streamflow and water temperature data to predict conditions in unsampled streams and lakes. Selected climate models will also be utilized to evaluate future hydrothermal conditions for these systems.   
