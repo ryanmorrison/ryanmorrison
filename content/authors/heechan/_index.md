@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Student (Graduated 2021)
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 **About Me:** My name is Heechan Han, Ph.D student of Civil and Environmental Engineering with a focus on Hydrologic Science and Engineering Program. I graduated from Inha University in South Korea with a BS and MS degrees in Civil and Environmental Engineering. My research interests span a wide range of topics in hydrologic science and engineering, including hydrological analysis, flood forecasting, machine learning and hydrometeorology analysis. 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. Student (Graduated 2020)
 
 # Organizations/Affiliations
 organizations:
