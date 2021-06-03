@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student (co-adviser)
+role: Ph.D. Student (co-advised with Timothy Gates, CEE)
 
 # Organizations/Affiliations
 organizations:

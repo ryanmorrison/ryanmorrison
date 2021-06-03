@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. Student (co-adviser; Graduated 2021)
+role: M.S. Student (co-advised with Timothy Gates, CEE; Graduated 2021)
 
 # Organizations/Affiliations
 organizations:
