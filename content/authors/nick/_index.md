@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. Student (Graduated 2021)
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 **About Me:** I received my Bachelor of Science in Civil Engineering at the University of Idaho. During my undergraduate education, I researched in an environmental engineering laboratory and was President of the University of Idaho Humanitarian Engineering Corps. I began my Master of Science in Civil Engineering program at Colorado State University in the pursuit of impacting sustainable, water-related engineering practices. Outside of engineering, I have a passion for music and languages.
