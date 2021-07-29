@@ -46,7 +46,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 
 **Sponsor:** U.S. Geological Survey, U.S. Forest Service
 
-**Duration:** 2019–2020
+**Duration:** 2019–2023
 
 **PI:** Ryan Morrison
 

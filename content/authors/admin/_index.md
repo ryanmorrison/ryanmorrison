@@ -73,7 +73,7 @@ user_groups:
 
 I am a water resources engineer and assistant professor at [Colorado State University](https://www.colostate.edu) in the [Civil and Environmental Engineering Department](https://www.engr.colostate.edu/ce/). The majority of my research has been focused on sustainably integrating ecological and human needs into water resource management, both from engineering and social science perspectives. My work emphasizes the impacts of river management on aquatic ecosystems and explores new methods for mitigating management effects.
 
-Please browse this site for a snapshot of my current research. For a full record of my academic achievements, click above (or [here](static/files/cv.pdf)) to view my curriculum vitae.
+Please browse this site for a snapshot of my current research. For a full record of my academic achievements, click above (or [here]({{< ref "static/files/cv.pdf" >}}) to view my curriculum vitae.
 
 **Current graduate students** -- Please see [this page] ({{< ref "/current_students/current_students.md" >}}) this page for a list of helpful resources.
 
