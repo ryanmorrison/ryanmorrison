@@ -2,7 +2,7 @@
 title: Congratulations, Heechan!
 subtitle:
 summary: Heehcan has passed his PhD exam. 
-authors: ["admin", "heehcan"]
+authors: ["admin", "heechan"]
 tags: []
 categories: ["research"]
 date: "2021-06-03"
